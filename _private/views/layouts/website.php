@@ -14,7 +14,7 @@
 <body>
 <div class="container">
     <header>
-        <h1>Social Responsibility</h1>
+        <h1>Transformer Community</h1>
     </header>
     <nav>
 		<?php if ( $this->section( 'navigation' ) ): ?>
